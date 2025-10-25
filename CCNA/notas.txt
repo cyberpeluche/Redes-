@@ -1,0 +1,10 @@
+direcion mac de mi rauter	6C:68:A4:F6:FA:85   	6c:68:a4:f6:fa:85
+direcion ip de mi rauter 192.168.1.1
+
+direcion mac del tt e2:74:ec:9c:d6:07
+direcion ip de tt 192.168.1.18
+
+direcion mac de yayi 72:9f:28:08:63:2f
+direcion ip de yayi 192.168.1.8
+
+direcion  
