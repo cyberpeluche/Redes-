@@ -17,9 +17,10 @@ const obtenerDatosAPI = async () => {
         title.textContent = `${element.title}`
         overview.textContent = `${element.overview}`
 
-        console.log(poster)
-        console.log(title)
-        console.log(overview)
+        
+        root.appendChild(poster)
+        root.appendChild(title)
+        root.appendChild(overview)
     });
 }
 //este codigo va aqui fuera de las llaves.
